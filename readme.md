@@ -1,6 +1,8 @@
-# dist PNG
+# dist - PNG
 + award 称谓牌匾
-+ exam/corner 试卷角标
-+ avatar
++ exam/corner 试卷/角标
++ avatar 头像
 
-# src PSD
+# src - PSD
++ avatar 头像
++ exam 试卷
