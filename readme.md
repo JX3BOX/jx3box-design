@@ -1,6 +1,5 @@
-# dist
-+ award 称谓牌匾
-+ exam/corner 试卷角标
-+ avatar
-
-# src
+- banner 首页横幅,按月归档
+- avatar 头像框
+- award 勋章
+- corner 角标
+- jdt 赛事专题
