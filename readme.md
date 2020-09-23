@@ -8,3 +8,4 @@
 - jdt 赛事专题
 - material 素材
 - other 其他
+- wiki 百科
